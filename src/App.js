@@ -50,7 +50,7 @@ function App() {
 
   return (
     <div><img class="w-96 h-48 max-h-full" src={logo} alt="Logo"  />'
-    <div class=" m-24"  >
+    <div class=" m-24">
       
       <form   onSubmit={handleSubmit}>
         <label for="message" class="block mb-2 text-sm font-medium text-gray-900 ">Text Detect</label>
